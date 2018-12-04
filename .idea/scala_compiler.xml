@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<project version="4">
-  <component name="ScalaCompilerConfiguration">
-    <profile name="sbt 1" modules="sbt-scalajs-react-facade-generator_8644,tweeter-core,sbt-scalajs-react-facade-generator-lib,root,react-facade-generator-lib" />
-    <profile name="sbt 2" modules="sbt-tweeter,sbt-scalajs-react-facade-generator,plugin-sbt-scalajs-react-facade-generator,react-facade-generator">
-      <option name="deprecationWarnings" value="true" />
-    </profile>
-  </component>
-</project>

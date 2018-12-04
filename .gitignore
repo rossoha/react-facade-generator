@@ -14,8 +14,7 @@ project/plugins/project/
 *.iws
 out/
 .idea_modules/
-project/project
-project/target
+**/target
 .classpath
 .project
 .settings
